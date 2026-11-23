@@ -2,7 +2,9 @@
 
 A linear-regression notebook exploring used-car selling prices.
 
-## Contents
+## Project files and local data inputs
+
+Data files listed below are local inputs, not bundled public downloads. See `PUBLIC_DATA_SETUP.md`.
 
 - `Cars_Project.ipynb`
 - `car data.csv`
